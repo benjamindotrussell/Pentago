@@ -1,0 +1,21 @@
+Instruction to run the Game
+
+Start:
+Click run.
+
+The console will prompt you to Enter 1 for min-max or 2 for alpha-beta
+type you choice into the console.
+
+The console will prompt you to enter your name.
+Enter your name.
+
+The console will prompt you to choose white or black as your game piece.
+type you choice into the console.
+The game will ask you to reenter a selection of you enter anything but white or black.
+
+The game will start at this point, selecting randomly who will go first.
+when it prompts you to enter you move, please enter it in the form specified in the assignment
+instructions '1/1 1r' there is some validation of your selection but it's not perfect.
+
+The game will continue in the manner taking turns with you until it sees 5 pegs in a row,
+at witch time it will declare a winner.

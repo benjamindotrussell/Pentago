@@ -1,0 +1,29 @@
+Min-max Algorithm
+nodes evaluated:
+depth 2: 10647
+
+Time complexity:
+b = branching factor
+d = depth
+
+O(b^d)
+
+Space complexity:
+since there is a node to represent each possible state in the tree, space complexity is the same as time complexity.
+
+----------------------------
+
+Alpha-Beta Algorithm
+nodes evaluated:
+depth 4: 300
+depth 5: 544
+
+Time complexity:
+b = branching factor
+d = depth
+
+O(b^(d/2))
+
+Space complexity:
+since there is a node to represent each possible state in the tree, space complexity is the same as time complexity.
+
